@@ -10,11 +10,11 @@ This code of conduct outlines our expectations for all those who participate in 
 
 The following behaviors are expected and requested of all community members:
 
-  * Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
+  * Demonstrate empathy, openness and kindness toward other people.
   * Exercise consideration and respect in your speech and actions.
-  * Attempt collaboration before conflict.
-  * Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
-  * Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+  * Welcome input and contributions from all participants, and ensure that all voices are being heard.
+  * Attempt collaboration before conflict and welcome constructive criticism.
+  * Alert a Steering Committee member if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct.
 
 ## 3. Unacceptable Behavior
 
@@ -32,15 +32,13 @@ The following behaviors are considered harassment and are unacceptable within ou
 
 ## 4. Consequences of Unacceptable Behavior
 
-Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
-
-Anyone asked to stop unacceptable behavior is expected to comply immediately.
+Unacceptable behavior from any participant, including sponsors and those with decision-making authority, will not be tolerated. Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
 If a community participant engages in unacceptable behavior, the Steering Committee may take one or more of the following actions as they deem appropriate:
 
-  * Private, written __warning__ indicating the consequences of continued violation
-  * __Temporary ban__ from Missouri Hub sponsored meetings and activities
-  * __Permanent expulsion__ from Missouri Hub sponsored meetings and activities
+  * A private, written __warning__ indicating the consequences of continued violation
+  * A __temporary ban__ from Missouri Hub sponsored meetings and activities
+  * A __permanent expulsion__ from Missouri Hub sponsored meetings and activities
 
 ## 5. Reporting Guidelines
 
@@ -48,24 +46,18 @@ If you are subject to or witness unacceptable behavior, or have any other concer
 
 Current Chair (2020-21): Shannon Mawhiney, [SMawhiney@MissouriState.edu](mailto:SMawhiney@MissouriState.edu)
 
-Additionally, Steering Committee members are available to help participants who are experiencing unacceptable behavior to feel safe, for instance by providing escorts or contacting law enforcement if it is requested.
-
 Missouri Hub respondents will respect the privacy wishes of reporters and those experiencing unacceptable behavior.
 
 ## 6. Scope
 
-We expect all community participants (attendees, leaders, sponsors, and other guests) to abide by this Code of Conduct in all community venues--online and in-person--as well as in all one-on-one communications pertaining to Missouri Hub business.
+We expect all participants (attendees, leaders, sponsors, and other guests) to abide by this Code of Conduct in all community venues--online and in-person--as well as in all one-on-one communications pertaining to Missouri Hub business.
 
 This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members, for instance during MissouriHub social gatherings.
 
-## 7. Contact info
-
-[YOUR CONTACT INFO HERE -- this should be a single person or a small team who can respond to issues directly]
-
-## 8. License and attribution
+## 7. License and attribution
 
 The Citizen Code of Conduct is distributed by Missouri Hub (http://missourihub.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
 
-Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
+Portions of text derived from the [Stumptown Syndicate Code of Conduct](http://stumptownsyndicate.org/), the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
 *Adopted by the Missouri Hub Steering Committee on Feb. 24, 2020.*
