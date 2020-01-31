@@ -1,4 +1,4 @@
-# Citizen Code of Conduct
+# Missouri Hub Code of Conduct
 
 ## 1. Purpose
 
