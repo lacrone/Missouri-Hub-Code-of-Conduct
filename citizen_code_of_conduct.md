@@ -36,9 +36,11 @@ Unacceptable behavior from any participant, including sponsors and those with de
 
 If a community participant engages in unacceptable behavior, the Steering Committee may take one or more of the following actions as they deem appropriate:
 
-  * A private, written __warning__ indicating the consequences of continued violation
+  * A written __warning__ indicating the offense and the consequences of continued violation
   * A __temporary ban__ from Missouri Hub sponsored meetings and activities
   * A __permanent expulsion__ from Missouri Hub sponsored meetings and activities
+
+If the person engaging in unacceptable conduct is participating on behalf of an organization, their employer will be notified of the violation. 
 
 ## 5. Reporting Guidelines
 
