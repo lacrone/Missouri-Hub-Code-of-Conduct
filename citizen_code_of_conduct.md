@@ -24,7 +24,7 @@ The following behaviors are considered harassment and are unacceptable within ou
   * Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
   * Posting or displaying sexually explicit or violent material.
   * Demeaning, discriminatory, or harassing behavior and speech.
-  * Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
+  * Unwelcome sexual attention, including sexualized comments or jokes, inappropriate touching, groping, and advances.
   * Deliberate intimidation, stalking or following (online or in person).
   * Sustained disruption of meetings or other Missouri Hub events.
   * Advocating for, or encouraging, any of the above behavior.
